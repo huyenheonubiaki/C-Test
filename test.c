@@ -3,6 +3,8 @@
 #include <string.h>
 #include <time.h>
 #define M 256
+
+// comment
 typedef struct Node{
   char *code_query;
   int number_of_people;
